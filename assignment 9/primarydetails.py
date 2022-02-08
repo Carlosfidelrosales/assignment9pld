@@ -56,7 +56,6 @@ my_resume = {
     "personalExperience": [
         {
         "E-Sports": "Radiant - VALORANT",
-        "MOBA": "Mythic - Mobile Legends",
         "Photo Editing": "Photoshop",
         "Video Editing": "Wondershare Filmora",
         "Hardware Service": "Computer Technician"
@@ -64,5 +63,5 @@ my_resume = {
     ]
 }
 json_file = json.dumps(my_resume, indent=2)
-with open("my_resume.json", "w") as resume: 
+with open("primarydetails.json", "w") as resume: 
     resume.write(json_file)
