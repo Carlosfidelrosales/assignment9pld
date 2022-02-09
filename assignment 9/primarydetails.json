@@ -20,37 +20,28 @@
     {
       "Kindergarten": "Pacita Complex Day Care Center",
       "Elementary": "Taguig Integrated School",
-      "Junior High School)": "Bagumbayan National High School",
-      "Senior High School (11th to 12th Grade)": "Bagumbayan National High School",
+      "Junior High School": "Bagumbayan National High School",
+      "Senior High School": "Bagumbayan National High School",
       "College": "Oxford University"
     }
   ],
-  "kindergartenAwards": [
+  "achievementsAward": [
     "Best in English",
     "Cutest Student",
-    "Most Diligent"
-  ],
-  "elementaryAwards": [
+    "Most Diligent",
     "Top 8 of the Section (Grades 4 to 5)",
-    "Katangi-tanging Student Award"
-  ],
-  "juniorHighAwards": [
-    "Academic Excellence Awardee (With Honors)"
-  ],
-  "seniorHighAwards": [
+    "Katangi-tanging Student Award",
+    "Academic Excellence Awardee (With Honors)",
     "Academic Excellence Awardee (With High Honors)"
   ],
-  "collegeAwards": [
-    "N/A"
-  ],
-  "identityReference": [
+  "characterReference": [
     "Jett Diffe",
     "Businesswoman",
     "University of the Philippines Diliman",
     "0912-345-6789",
     "jettdiffe23@up.edu.ph"
   ],
-  "personalExperience": [
+  "Skills": [
     {
       "E-Sports": "Radiant - VALORANT",
       "Photo Editing": "Photoshop",
